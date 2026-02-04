@@ -24,7 +24,7 @@ I am an experienced **Product/Project Manager** with a **Master's in Engineering
     * CAD & 3D Printing
 
 ### 🚀 Featured Projects
-* **[MBTI Personality Predictor](https://github.com/prayagsportfolio/Portfolio/tree/main/Machine Learning Project)**
+* **[MBTI Personality Predictor](https://github.com/prayagsportfolio/Portfolio)**
     * *Description:* A machine learning model that predicts personality types based on psychometric data with 90.4% accuracy.
     * *Tech Stack:* Random Forest, Decision Trees, R.
 
