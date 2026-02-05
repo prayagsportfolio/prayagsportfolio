@@ -23,10 +23,9 @@ I am an experienced **Product/Project Manager** with a **Master's in Engineering
     * Python Programming
     * CAD & 3D Printing
 
-### 🚀 Featured Projects
-* **[MBTI Personality Predictor](https://github.com/prayagsportfolio/Portfolio)**
-    * *Description:* A machine learning model that predicts personality types based on psychometric data with 90.4% accuracy.
-    * *Tech Stack:* Random Forest, Decision Trees, R.
+### 🚀 [Project Portfolio](https://github.com/prayagsportfolio/Portfolio)
+A comprehensive collection of my data analytics, product and engineering projects. This repository includes source code, documentation, and visualizations for my work in a variety of projects.
+* **Tech Stack:** Machine Learning, Tableau, Python, SQL, Excel, AutoCAD, MATLAB/Simulink, PSIM, STM32 (Embedded C)
 
 ### 📫 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/prayagbhatt)
