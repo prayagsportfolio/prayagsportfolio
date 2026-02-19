@@ -1,6 +1,6 @@
 <ins>Hi there, I'm Prayag Bhatt!👋</ins>
 
-I am an experienced Product/Project Manager with a Master's in Engineering Management and a foundational background in Industrial and Electrical engineering. I bring 4 years of experience managing technical projects, driving data-backed strategies and leading cross-functional teams across manufacturing and technical domain.
+I am an experienced Product/Project Manager with a Master's in Engineering Management and a foundational background in Business Analytics and Industrial engineering. I bring 4 years of experience managing technical projects, driving data-backed strategies and leading cross-functional teams across technology and manufacturing domain.
 
 ### 🎓 Education
 * **MS in Engineering Management** @ Purdue University, IN
