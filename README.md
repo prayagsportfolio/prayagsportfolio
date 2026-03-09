@@ -25,7 +25,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
     * Python Programming
     * CAD & 3D Printing
 
-### 🚀 [Project Portfolio](https://github.com/prayagsportfolio/Portfolio)
+### 🚀 [Project Portfolio](https://prayagsportfolio.github.io/Portfolio/#/)
 A comprehensive collection of my data analytics, product and engineering projects. This repository includes source code, documentation, and visualizations for my work in a variety of projects.
 * **Tech Stack:** Machine Learning, Tableau, Python, SQL, PostgreSQL, Airbyte, Docker, Excel, AutoCAD, MATLAB/Simulink, PSIM, STM32 (Embedded C)
 
