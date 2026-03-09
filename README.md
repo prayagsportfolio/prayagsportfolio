@@ -27,7 +27,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
 
 ### 🚀 [Project Portfolio](https://github.com/prayagsportfolio/Portfolio)
 A comprehensive collection of my data analytics, product and engineering projects. This repository includes source code, documentation, and visualizations for my work in a variety of projects.
-* **Tech Stack:** Machine Learning, Tableau, Python, SQL, Excel, AutoCAD, MATLAB/Simulink, PSIM, STM32 (Embedded C)
+* **Tech Stack:** Machine Learning, Tableau, Python, SQL, PostgreSQL, Airbyte, Docker, Excel, AutoCAD, MATLAB/Simulink, PSIM, STM32 (Embedded C)
 
 ### 📫 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/prayagbhatt)
