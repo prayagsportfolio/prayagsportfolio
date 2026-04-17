@@ -10,9 +10,9 @@ I am a Master of Engineering Management graduate from Purdue University with a f
 
 ### 💼 Experience
 * **Data Analyst** @ Purdue University Daniels School of Business
-* **Product Manager (Business Analytics)** @ Meditab Software Inc.
+* **Business Analyst (Product Management)** @ Meditab Software Inc.
    * *Focus:* B2B2C SaaS & Hardware products.
-* **Manufacturing Engineer (Operations)** @ Reliance Industries Limited
+* **Operations Engineer (Manufacturing)** @ Reliance Industries Limited
 
 ### 🛠️ Skills & Certifications
 * **Core Competencies:** Project Management, Product Management, Data Analytics, Supply Chain, Lean Six Sigma, Artificial Intelligence (AI).
